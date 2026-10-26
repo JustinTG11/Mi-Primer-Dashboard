@@ -1,0 +1,11 @@
+pago_key,tipo_pago,rango_cuotas
+0,sin_dato,sin_dato
+1,credit_card,1 cuota
+2,boleto,1 cuota
+3,credit_card,7-12 cuotas
+4,credit_card,4-6 cuotas
+5,debit_card,1 cuota
+6,credit_card,2-3 cuotas
+7,voucher,1 cuota
+8,credit_card,13+ cuotas
+9,otro,1 cuota

@@ -1,0 +1,10 @@
+estado_key,order_status
+0,sin_dato
+1,approved
+2,canceled
+3,created
+4,delivered
+5,invoiced
+6,processing
+7,shipped
+8,unavailable
